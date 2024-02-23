@@ -69,7 +69,7 @@ main .search-bar {
 
 main .search-bar:focus {
   outline: none;
-  box-shadow: 0 0 5px 1px #00000020;
+  box-shadow: 0 0 5px 1px #e263e220;
 }
 
 main .buttons {
